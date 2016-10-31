@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LoggingSeviceWithMessangerClient</string>
+    <string name="generate_log_message_string">Generate Log Message</string>
+
+</resources>
